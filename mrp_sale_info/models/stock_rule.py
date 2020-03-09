@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright 2019 Rubén Bravo <rubenred18@gmail.com>
+# Copyright 2020 Juan Ignacio Úbeda <juani@freedoo.es>
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html)
 
 from odoo import models

@@ -23,7 +23,7 @@ MRP Sale Info
     :target: https://runbot.odoo-community.org/runbot/129/12.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module extends the functionality of sale_mrp and adds related fields to Manufacturing Orders and Work Orders:
 
@@ -69,6 +69,7 @@ Contributors
 * Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
 * Ana Juaristi <anajuaristi@avanzosc.es>
 * Rubén Bravo <rubenred18@gmail.com>
+* Juan Ignacio Úbeda <juani@freedoo.es>
 
 Maintainers
 ~~~~~~~~~~~
